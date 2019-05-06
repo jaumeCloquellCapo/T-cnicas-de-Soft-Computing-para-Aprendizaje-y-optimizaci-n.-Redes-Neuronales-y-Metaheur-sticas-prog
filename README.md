@@ -5,7 +5,7 @@ Python Jupyter Notebook leveraging **Transfer Learning**  and **Convolutional Ne
 
 Part of the [Kaggle competition](https://www.kaggle.com/c/histopathologic-cancer-detection). 
 
-Submitted [Kernel](https://www.kaggle.com/jaumecloquellcapo/t-cnicas-de-soft-computing-cnn-v2) with 0.92 LB score.
+Submitted [Kernel](https://www.kaggle.com/jaumecloquellcapo/cnn-0-93) with 0.92 LB score.
 
 ## Data
 
