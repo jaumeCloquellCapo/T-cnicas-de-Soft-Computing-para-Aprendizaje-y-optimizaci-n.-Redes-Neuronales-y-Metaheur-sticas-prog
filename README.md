@@ -22,9 +22,6 @@ Submitted [Kernel](https://www.kaggle.com/jaumecloquellcapo/t-cnicas-de-soft-com
 **Testing:** 57.5k images
 
 ## Model
-<h3>
-  <img src="assets/model_plot.png" width="500">
-</h3>
 
 _________________________________________________________________
 Layer (type)                 Output Shape              Param #   
@@ -94,15 +91,15 @@ _________________________________________________________________
 ## Training
 
 <h3>
-  <img src="assets/training.png" width="500">
+  <img src="assets/model3Ac.png" width="500">
 </h3>
 
 <h3>
-  <img src="assets/validation.png" width="500">
+  <img src="assets/model3Los.png" width="500">
 </h3>
 
 <h3>
-  <img src="assets/roc.png" width="500">
+  <img src="assets/model3Roc.png" width="500">
 </h3>
 
 ## Results
